@@ -1,3 +1,6 @@
 .history
 env.json
 goftp
+goftp.linux.64
+goftp.osx
+test
